@@ -1,0 +1,19 @@
+*{
+    margin:auto;
+    margin-top: 60px;
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 900px;
+    background-color: #a5d5f5;
+}
+th{
+    background: -webkit-linear-gradient(right, #054f66,#a5d5f5 );
+}
+.no{
+    text-align: center;
+    width: 100px;
+}
